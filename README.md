@@ -25,13 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<!-- Você pode substituir pelo seu próprio link -->
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielAlmeidaSil&show_icons=true&theme=tokyonight" width="49%" />
-
----
-
 ### 📫 Contato
 
 - 📧 Email: gabriel.almesilva@gmail.com
