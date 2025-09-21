@@ -8,9 +8,9 @@
 
 ### 🚀 Sobre Mim
 
-- 🌟 Apaixonado por tecnologia e design de interfaces
-- 👨‍💻 Atualmente aperfeiçoando **JavaScript, BootStrap5 e React**
-- 🌐 Buscando oportunidades para aplicar meus conhecimentos em projetos reais
+🌟 Apaixonado por tecnologia e design de interfaces<br>
+👨‍💻 Atualmente aperfeiçoando **JavaScript, BootStrap5 e React**<br>
+🌐 Buscando oportunidades para aplicar meus conhecimentos em projetos reais
 
 ---
 
@@ -21,6 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 </p>
 
 ---
