@@ -1,16 +1,16 @@
 <h1>Olá, eu sou o Gabriel Almeida 👋</h1>
 
 <p>
-  💻 Desenvolvedor Front-End Junior | 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+  💻 Desenvolvedor Junior | 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 </p>
 
 ---
 
 ### 🚀 Sobre Mim
 
-🌟 Apaixonado por tecnologia e design de interfaces<br>
-👨‍💻 Atualmente aperfeiçoando **JavaScript, BootStrap5 e React**<br>
-🌐 Buscando oportunidades para aplicar meus conhecimentos em projetos reais
+💻 Desenvolvedor Web com foco em Angular e TypeScript<br>
+⚙️ Experiência no desenvolvimento de interfaces e implementação de funcionalidades<br>
+📈 Em constante evolução, buscando criar aplicações bem estruturadas e funcionais
 
 ---
 
@@ -23,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/>
 </p>
 
 ---
